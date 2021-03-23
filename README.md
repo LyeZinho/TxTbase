@@ -20,7 +20,15 @@ Data base txt based
 
 ---
 
+Instalação
+
+Tenha o arquivo `txtbase.h` no mesmo local do programa
+utilize o include do `"txtbase.h"`
+use todas as funcionalidades da biblioteca a vontade
+
 **Exemplo**
+
+Leitura 
 
 ```c
 #include "txtbase.h"
@@ -35,3 +43,30 @@ int main(void) {
   return 0;
 }
 ```
+
+Escrita
+
+```c
+#include "txtbase.h"
+
+int main(void) {
+
+  char imput[90];
+
+  printf("Digite os valores da db\n");
+
+  fgets(imput, 90, stdin);
+
+  DATAWRITE(dir, nome, imput);  
+  return 0;
+}
+```
+
+---
+Info
+
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+
+Isso e apenas uma coizinha que eu tava fazendo porvavelmente tem outras maneiras 
+mais complexas de trabalhar com isso por isso pode revirar o codigo remodelar a vontade (☞ﾟヮﾟ)☞
+Discord: LyePedro#4510
