@@ -1,8 +1,11 @@
 # TxTbase
 Data base txt based
 
+
 () Data base simples para uso geral
+
 () Simples aplicação 
+
 () Funcionamento basico e completo
 
 ---
