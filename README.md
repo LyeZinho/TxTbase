@@ -10,7 +10,9 @@ Data base txt based
 #Limitações
 
 1- Os valores passados são strings (nessesita alterar o tipo de passagem)
+
 2- Por funcionamento basico não se pode prever erros e não cumpre tarefas complexas
+
 3- So se pode passar um dado por arquivo (porem a leitura e simples modificação igualmente)
 
 ---
