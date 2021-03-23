@@ -2,11 +2,11 @@
 Data base txt based
 
 
-() Data base simples para uso geral
+∘ Data base simples para uso geral
 
-() Simples aplicação 
+∘ Simples aplicação 
 
-() Funcionamento basico e completo
+∘ Funcionamento basico e completo
 
 ---
 
